@@ -1,8 +1,6 @@
 # Rework idea for __Break My Bones__
-### -------
 ### Rundown:
 Completely overhaul the combat system (sort of) in a way that would make vanilla combat more immersive, while retaining the original weapons (with adjustments to them, of course). And especially removing __Better Combat__ and __Json Things__ from the list of required mods.
-### -------
 ### Weapon reworks (of old weapons):
 Below are all the ideas I have for changing the existing weapons in __Break My Bones__.
 - **Daggers** can now be thrown. Throwing damage is based on the damage of the dagger and how long it was charged before you attacked. Will retain old stats.
