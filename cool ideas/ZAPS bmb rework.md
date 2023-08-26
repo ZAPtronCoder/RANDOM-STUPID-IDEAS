@@ -20,6 +20,7 @@ Of course I have new ideas for cool and gimmicky weapons.
 - **Shield** variants for materials other than iron.
 - **Parry Shields**, shields that cannot block attacks but can parry with a larger parry window. Attempting to block will hold up the shield for however long the parry window is.
 - **Bulwarks**, shields that cannot parry but can be continuously held up and is immune to block disabling. Attempting to parry will function like a normal block.
+- **Gauntlets** are a heavier version of the knuckles. Gauntlets deal heavy knockback and have moderate damage and attack speed. Gauntlets build up Rage on kill, 
 ### Mechanic elaboration:
 I just want people to understand terms.
 - **Disabling** will happen when a weapon or an attack causes a weapon or shield to be temporarily disabled. Disabled weapons and shields cannot be used until the 'cooldown' is over. Works on both players and basic, player-like mobs (zombie variants, skeleton variants).
@@ -27,7 +28,7 @@ I just want people to understand terms.
 ### Effect elaboration: 
 With all these new effects I'm listing I should at least tell you what they do.
 - **Armor Crunch** will make all attacks on the victim ignore 20% (+20% per level) of armor. Gains more levels if additional Armor Crunch procs. Caps at V.
-- **Bleeding** will deal damage over time (+shortened damage interval per level) that ignores armor and will NOT leave the victim on a half-heart. Prevents natural regen. Gain more levels if additional Bleeding procs. Caps at X.
+- **Bleeding** will deal damage over time (+shortened damage interval per level) that ignores armor and will NOT leave the victim on a half-heart. Prevents natural regen. Gains more levels if additional Bleeding procs. Caps at X.
 - **Hit Streak** will increase attack speed by 10% (+10% per level). Gain more levels if additional Hit Streak procs. Caps at X.
 - **Rage** does nothing unless a weapon uses Rage. Caps at XX.
 - **Retaliation** deal 20% (+20% per level) more damage. Gain more levels if additional Retaliation procs. Remove effect (and levels of effect) when attacking. Caps at X.
