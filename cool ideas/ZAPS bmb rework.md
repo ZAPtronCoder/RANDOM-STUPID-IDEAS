@@ -27,7 +27,7 @@ I just want people to understand terms.
 ### Effect elaboration: 
 With all these new effects I'm listing I should at least tell you what they do.
 - **Armor Crunch** will make all attacks on the victim ignore 20% (+20% per level) of armor. Gains more levels if additional Armor Crunch procs. Caps at V.
-- **Bleeding** will deal damage over time (+shortened damage interval per level) that ignores armor and will NOT leave the victim on a half-heart. Gain more levels if additional Bleeding procs. Caps at X.
+- **Bleeding** will deal damage over time (+shortened damage interval per level) that ignores armor and will NOT leave the victim on a half-heart. Prevents natural regen. Gain more levels if additional Bleeding procs. Caps at X.
 - **Hit Streak** will increase attack speed by 10% (+10% per level). Gain more levels if additional Hit Streak procs. Caps at X.
 - **Rage** does nothing unless a weapon uses Rage. Caps at XX.
 - **Retaliation** deal 20% (+20% per level) more damage. Gain more levels if additional Retaliation procs. Remove effect (and levels of effect) when attacking. Caps at X.
