@@ -21,6 +21,7 @@ Of course I have new ideas for cool and gimmicky weapons.
 - **Parry Shields**, cannot block attacks but can parry with a larger parry window.
 - **Bulwarks**, cannot parry but can be continuously held up and is immune to block disabling.
 ### Mechanic elaboration:
+I just want people to understand terms.
 - **Disabling** will happen when a weapon or an attack causes a weapon or shield to be temporarily disabled.
 - **Parrying** will happen when an enemy attacks a block within a certain window. Parrying will reflect the damage or projectile back onto the enemy and provide Retaliation. Golden shields of any kind have an increased parry window.
 ### Effect elaboration: 
