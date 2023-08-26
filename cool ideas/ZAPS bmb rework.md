@@ -18,6 +18,10 @@ Below are all the ideas I have for changing the existing weapons in __Break My B
 ### New weapons (and defensive items):
 Of course I have new ideas for cool and gimmicky weapons.
 - **Shield** variants for materials other than iron.
+- **Parry Shields**, cannot block attacks but can parry with a larger parry window.
+- **Bulwarks**, cannot parry but can be continuously held up and is immune to block disabling.
+### Mechanic elaboration:
+- **Parrying** will happen when an enemy attacks a block within a certain window. Parrying will provide Retaliation. Golden shields of any kind have an increased parry window.
 ### Effect elaboration: 
 With all these new effects I'm listing I should at least tell you what they do.
 - **Armor Crunch** will make all attacks on the victim ignore 20% (+20% per level) of armor. Gains more levels if additional Armor Crunch procs. Caps at V.
