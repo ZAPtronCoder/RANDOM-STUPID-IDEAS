@@ -1,4 +1,4 @@
-# RANDOM-STUPID-IDEAS
+# COLLECTIVE DUMB AND NOT SO DUMB IDEAS STARRING TEAM SYNDICATE!!!!!
 Random mod ideas and whatnot, all very cool stuff indeed.
 
 Look in `cool ideas` for good, sick, maybe even awesome ideas. 😎
