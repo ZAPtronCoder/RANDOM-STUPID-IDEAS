@@ -9,7 +9,7 @@ One question may be: how would you obtain these? My answer is they would initial
 I'm taking inspiration from __Stardew Valley__ for this next tidbit. The crop, when planted, will take forever to grow: 15 days. Other than that, it also can't be bonemealed normally. It has 15 growing stages, but it has to be bonemealed once every stage in order to not die; the crop will wither away when not taken care of. The crop, when fully grown, can be harvested by a right-click and will drop 1-2 berries. The plant will then revert to its 10th stage, and continue growing from there (still have to bonemeal it).
 
 Some additional addends for the crop would be:
-- It works with Rich Soil, shortening the growth time by 3 days.
+- It works with Rich Soil, shortening the growth time by 3 days. (__Farmer's Delight__)
 - The crop will give of warning particles if it is close to dying.
 - One seed can be made from putting a berry in a crafting interface.
 
