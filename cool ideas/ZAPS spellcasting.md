@@ -27,7 +27,7 @@ Spells are broken up into different categories, those being:
 
 Projectile spells can have the following stats:
 - Damage (in specified damage type)
- - Damage would have different damage types, such as Magic, Projectile, Burn, and Explosive.
+ + Damage would have different damage types, such as Magic, Projectile, Burn, and Explosive.
 - Mana Cost (in mana)
 - Additional Time Between Casts (in +sec)
 - Additional Reload Time (in +sec)
