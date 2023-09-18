@@ -45,7 +45,7 @@ Static spells can have the following stats:
 - Additional Effects
 
 Modifier spells can have the following stats:
-- Modify *x* Stat (+,-,×,÷)
+- Modify *x* Stat (+, -, ×, ÷)
 - Mana Cost
 - Uses
 - Additional Effects (preferably ones that modify the base spell)
