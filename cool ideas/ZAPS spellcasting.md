@@ -17,7 +17,7 @@ The wands would have the following different types of stats, reminiscent of Noit
 Wands can be used by right clicking, which will fire off whatever spells are in the wand from left to right based on the "Time Between Casts" stat. After that, it will 'reload', taking whatever amount of time the "Reload Time" stat says.
 You can modify the spells in a wand by interacting with a new workstation called the "Tinkering Station". It will open up a menu when you insert your wand in it, allowing you to put spells in the slots or take spells out.
 Wands will have durability that is consumed when casting a spell. A wand can be repaired in an Anvil or a Tinkering Station (repairing it in a station will not cost EXP but cost more material).
-The player will start with a "Stick Wand" with a "Little Spell Bolt" on it when they first join a world {Optional}.
+The player will start with a "Stick Wand" with a "Lesser Spell Bolt" on it when they first join a world {Configurable}.
 ## Spells
 ### Spell Basics
 Spells are broken up into different categories, those being:
@@ -27,7 +27,7 @@ Spells are broken up into different categories, those being:
 
 Projectile spells can have the following stats:
 - Damage (in specified damage type)
-   - Damage would have different damage types, such as Magic, Projectile, Explosive, Burn, Freeze, etc.
+   - Damage would have different damage types, such as Magic, Projectile, Explosive, Burn, Freeze, Healing, etc.
 - Mana Cost (in mana)
 - Additional Time Between Casts (in +sec)
 - Additional Reload Time (in +sec)
@@ -53,3 +53,19 @@ Modifier spells can have the following stats:
 Spells will usually be obtained through loot chests, rare mob drops, or villager trades.
 When a spell runs out of uses, it can be repaired with any `#forge:gems` at a Tinkering Station.
 Certain spells can be combined together at a Tinkering Station to form greater spells.
+### All Spells
+These are all my ideas for the spells that would be added.
+
+**Lesser Spell Bolt**
+- *A small bolt that does petty damage, cheap to cast.*
+- Projectile
+- Stats:
+   - 1 Projectile Damage, 1 Magic Damage
+   - 10 Mana Cost
+   - +0.1sec Additional TBC
+   - +0.1sec Additional RT
+   - 5° Spread
+   - Is affected by gravity
+- Shoots a small, purple projectile that leaves behind a wake of purple particles.
+**Spell Bolt**
+- *A larger form of the redundant lesser spell bolt.*
