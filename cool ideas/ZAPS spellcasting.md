@@ -1,10 +1,9 @@
 # Mod idea for spellcasting
-## Let's call it "Zap's Spellcasting"
-### Basic idea:
+### Basic idea
 This mod would add a Noita styled spellcasting system.
 
 It would introduce wands and spells. 
-
+## Wands
 ### Wand Basics
 The wands would have the following different types of stats, reminiscent of Noita's wands:
 - Mana Capacity
@@ -19,6 +18,7 @@ Wands can be used by right clicking, which will fire off whatever spells are in 
 You can modify the spells in a wand by interacting with a new workstation called the "Tinkering Station". It will open up a menu when you insert your wand in it, allowing you to put spells in the slots or take spells out.
 Wands will have durability that is consumed when casting a spell. A wand can be repaired in an Anvil or a Tinkering Station (repairing it in a station will not cost EXP but cost more material).
 The player will start with a "Stick Wand" with a "Little Spell Bolt" on it when they first join a world {Optional}.
+## Spells
 ### Spell Basics
 Spells are broken up into different categories, those being:
 - Projectile
