@@ -103,5 +103,18 @@ These are all my ideas for the spells that would be added.
 - Modifier
 - Stats:
    - -20 Mana Cost
-   - +0.2 Additional RT
+   - +0.5 Additional RT
 - Found in dungeon chests.
+
+**Magic Explosion**
+- *A spell that creates an explosion that does not destroy blocks. You probably shouldn't cast this by itself.*
+- Static
+- Stats:
+   - 8 Explosive Damage
+   - 25 Mana Cost
+   - +0.2 Additional TBC
+   - +0.4 Additional RT
+   - Instantaneous
+- Creates an small explosion where it is cast. Does not destroy any blocks. Leaves behind a lingering yellow cluster of particles when cast. Found in dungeon chests.
+
+**Spell Trigger**
