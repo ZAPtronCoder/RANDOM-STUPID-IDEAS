@@ -5,4 +5,8 @@
 
 Your one goal (subject to change) is to provide a safe space for yourself to possibly thrive and industrialize in a dimension filled with weird creatures.
 ### Changes
-Many things will be changed, such as making zombies and skeletons spawn in the Undergarden; renaming them to Rotbrawlers and Rotrangers with, of course, corresponding retextures to expand more on Rotspawn.
+<details>
+           <summary>**Mob Changes**</summary>
+           <p>Many things will be changed, such as making zombies and skeletons spawn in the Undergarden; renaming them to Rotbrawlers and Rotrangers with, of course, corresponding retextures to expand more on Rotspawn.</p>
+</details>
+
