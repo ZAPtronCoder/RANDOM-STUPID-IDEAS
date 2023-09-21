@@ -8,6 +8,5 @@ Your one goal (subject to change) is to provide a safe space for yourself to pos
 <details>
            <summary><b>Mob Changes</b></summary>
            <p>Many things will be changed, such as making zombies and skeletons spawn in the Undergarden; renaming them to Rotbrawlers and Rotrangers with, of course, corresponding retextures to expand more on Rotspawn.</p>
-           <p>Creepers could also be introduced as some sort of spore-related thing.</p>
+           <p>Creepers will also be turned into rotspawn, becoming Rotbombers that leave a wake of rotdust when the explode, creating more Lil' Rotbombers that continue to wreak havoc in the Undergarden.</p>
 </details>
-
