@@ -4,8 +4,8 @@ FMJ (or in better terms, Full Metal Jacket) was originally going to be a fork of
 
 Our plan is to use three library mods to make this whole ordeal work, those mods being:
 - Lodestone
- - This will provide us with tools for VFX and GUI related things.
+   - This will provide us with tools for VFX and GUI related things.
 - CoFH Core
- - This will provide us with already existing particles to toy with, textures that dynamically change with stack size, and other misc stuff like the Holding enchantment.
+   - This will provide us with already existing particles to toy with, textures that dynamically change with stack size, and other misc stuff like the Holding enchantment.
 - playerAnimator
- - This will provide us with tools for making things like gun holding animations, reload animations, and even other animation-related things.
+   - This will provide us with tools for making things like gun holding animations, reload animations, and even other animation-related things.
