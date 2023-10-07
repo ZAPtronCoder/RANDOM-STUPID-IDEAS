@@ -34,7 +34,7 @@
 **Grenade Shells**
 - Explosive (does decent AOE at a decent range, does not destroy tiles)
 - Sponge (1 large soft sponge, does good damage on a direct hit but is not explosive)
-- Enderpearl (launches a pearl when firing, will teleport you when it lands; causes Enderference if it hits an entity)
+- Ender (launches a pearl when firing, will teleport you when it lands; causes Enderference if it hits an entity)
 - Jumper (deals extra knockback, but deals no damage)
 - Bouncy (slimeballs cause grenade to bounce 2 times before exploding)
 - Sticky (honey causes grenade to stick to surfaces and explode 2 seconds later)
