@@ -50,7 +50,7 @@
 ## Guns
 **Crude Pistol**
 - fires Pistol Cartridges
-- 3 rounds
+- 3 rounds, 0.5 second firerate
 - internal mag, reloads individual bullets; 1 second reload per bullet
 - mediocre damage
 
