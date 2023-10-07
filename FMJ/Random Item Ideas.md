@@ -51,4 +51,11 @@
 **Crude Pistol**
 - fires Pistol Cartridges
 - 3 rounds
-- internal mag, reloads individual bullets
+- internal mag, reloads individual bullets; 1 second reload per bullet
+- mediocre damage
+
+**Pipe Shotgun**
+- fires Thin Shells
+- 1 round
+- breach-loaded; 3 second reload
+- great point-blank damage, damage falloff is really impactful
