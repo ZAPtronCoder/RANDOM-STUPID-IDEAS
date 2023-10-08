@@ -22,14 +22,14 @@
 - Birdshot (15 pellets)
 - Slug (concentrates all the little bits into one big shot)
 - Arrow Flechette (2 arrows)
-- Scrapshot (4 large projectiles with inconsistent accuracy)
+- Torch Slug (lights targets on fire, places a torch when it lands)
 
 **Shells**
 - Normal (12 pellets)
 - Birdshot (20 pellets)
 - Slug (concentrates all the little bits into one big shot)
 - Arrow Flechette (5 arrows)
-- Torch Slug (lights targets on fire, places a torch when it lands)
+- Dustshot (causes an AOE of redstone activation where it lands)
 
 **Grenade Shells**
 - Explosive (does decent AOE at a decent range, does not destroy tiles)
