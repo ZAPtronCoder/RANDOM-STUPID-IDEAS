@@ -21,4 +21,8 @@ Magazines on the other hand will hold these ammo types. Of course there won't be
 Some guns don't use magazines, and either have internal mags/tubes or are breach-loaded. These will be loaded with ammo directly instead of by use of a magazine.
 
 ### Guns
-Guns includes everything from revolvers to rocket launchers, and can be fired by pressing <kbd>Mouse 1</kbd> and can be aimed with by pressing <kbd>Mouse 2</kbd>.
+Guns includes everything from revolvers to rocket launchers, and can be fired by pressing <kbd>Mouse 1</kbd> and can be aimed with by pressing <kbd>Mouse 2</kbd>. 
+
+Reloading a gun is as simple as pressing <kbd>R</kbd> while holding it, which will take ammo/mags from either your offhand, the closest slot to your gun in the hotbar, or from top-left to the bottom-right of your inventory. Alternatively, you can treat the gun like a bundle when loading and taking out ammo/mags.
+
+When pressing <kbd>T</kbd> while holding a gun, it will open the in-world menu for the gun, allowing you to better customize your gun and extract ammo/mags via the menu instead of previously mentioned methods.
