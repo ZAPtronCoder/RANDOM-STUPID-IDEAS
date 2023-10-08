@@ -38,6 +38,7 @@
 - Jumper (deals extra knockback, but deals no damage)
 - Bouncy (slimeballs cause grenade to bounce 2 times before exploding)
 - Sticky (honey causes grenade to stick to surfaces and explode 2 seconds later)
+- Potion (creates a larger lingering area effect cloud when it lands)
 
 **Rockets**
 - Explosive (does good AOE at a good range, does not destroy tiles)
@@ -46,7 +47,7 @@
 - Firework (explodes into fireworks instead of the usual, retains the pattern of the firework used to craft it)
 - Terraforming (larger explosion radius that does destroy tiles)
 - Jumper (deals extra knockback, but deals no damage)
-- Torpedo (works underwater, less so in air. explosions work as normal underwater)
+- Torpedo (works underwater, less so in air; explosions work as normal underwater)
 
 ## Guns
 **Crude Pistol**
