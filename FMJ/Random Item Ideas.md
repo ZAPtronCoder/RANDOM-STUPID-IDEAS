@@ -46,6 +46,7 @@
 - Firework (explodes into fireworks instead of the usual, retains the pattern of the firework used to craft it)
 - Terraforming (larger explosion radius that does destroy tiles)
 - Jumper (deals extra knockback, but deals no damage)
+- Torpedo (works underwater, less so in air. explosions work as normal underwater)
 
 ## Guns
 **Crude Pistol**
