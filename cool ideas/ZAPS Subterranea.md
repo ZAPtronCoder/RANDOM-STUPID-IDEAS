@@ -54,3 +54,7 @@ But unlike seasons (other than temperature change and growing seasons) it will d
         - The Waxing Harvest, *It has arrived.*
         - The Harvest, *The world has fallen unto a state of pain, as if the very ground has become an open sore to the world.*
         - The Waning Harvest, *When will it end?*
+
+Through use of a Wailing Rock (reskin of the Calender), you can view what part of the cycle the Undergarden is in. It will also display the flavor text of thr current part of the cycle when used.
+
+A Wailing Rock will be gifted to the player when they first load into a world. If lost, it can be made by surrounding a Regalium crystal with 4 depthrock pebbles.
