@@ -21,9 +21,9 @@ But unlike seasons (other than temperature change and growing seasons) it will d
     - Plants will grow slower than normal.
     - Neutral temperature.
     - Flavor text:
-        - The Waxing Nocturn, *The hostility of the world has fallen under rest.*
-        - The Nocturn, *The world seems quiet.*
-        - The Waning Nocturn, *The world shifts from serenity to a more lively and febrile state.*
+        - The Waxing Nocturn, *"The hostility of the world has fallen under rest."*
+        - The Nocturn, *"The world seems quiet."*
+        - The Waning Nocturn, *"The world shifts from serenity to a more lively and febrile state."*
 
 - Summer:
     - Renamed to the Verdant.
@@ -31,9 +31,9 @@ But unlike seasons (other than temperature change and growing seasons) it will d
     - Plants will grow faster than normal.
     - Hot temperature.
     - Flavor text:
-        - The Waxing Verdant, *The world becomes more exuberant.*
-        - The Verdant, *The world seems more energetic and full of life, good or bad.*
-        - The Waning Verdant *The vibrancy of the world seems to fall.*
+        - The Waxing Verdant, *"The world becomes more exuberant."*
+        - The Verdant, *"The world seems more energetic and full of life, good or bad."*
+        - The Waning Verdant *"The vibrancy of the world seems to fall."*
 
 - Fall:
     - Renamed to the Forebode.
@@ -41,9 +41,9 @@ But unlike seasons (other than temperature change and growing seasons) it will d
     - Plants will grow way slower than normal.
     - Neutral, but slightly more cold temperature.
     - Flavor text:
-        - The Waxing Forbode, *The world grows more cold, more hostile.*
-        - The Forbode, *The world seems calm, suspiciously calm, if cold and hostile.*
-        - The Waning Forbode, *The calm of the world shifts to panic, this is your last chance.*
+        - The Waxing Forbode, *"The world grows more cold, more hostile."*
+        - The Forbode, *"The world seems calm, suspiciously calm, if cold and hostile."*
+        - The Waning Forbode, *"The calm of the world shifts to panic, this is your last chance."*
 
 - Winter:
     - Renamed to the Harvest.
@@ -51,9 +51,9 @@ But unlike seasons (other than temperature change and growing seasons) it will d
     - Plants will not grow.
     - Freezing temperature.
     - Flavor text:
-        - The Waxing Harvest, *It has arrived.*
-        - The Harvest, *The world has fallen unto a state of pain, as if the very ground has become an open sore to the world.*
-        - The Waning Harvest, *When will it end?*
+        - The Waxing Harvest, *"It has arrived.*
+        - The Harvest, *The world has fallen unto a state of pain, as if the very ground has become an open sore to the world."*
+        - The Waning Harvest, *"When will it end?"*
 
 Through use of a Wailing Rock (reskin of the Calender), you can view what part of the cycle the Undergarden is in. It will also display the flavor text of the current part of the cycle when used.
 
