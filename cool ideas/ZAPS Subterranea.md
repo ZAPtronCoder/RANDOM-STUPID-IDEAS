@@ -12,7 +12,7 @@ Many things will be changed, such as making zombies and skeletons spawn in the U
 Creepers will also be turned into rotspawn, becoming Rotbombers that leave a wake of rotdust when they explode, creating some Rotnates that continue to wreak havok on the Undergarden.
 
 #### *The Cycle*
-In this modpack, the whole idea of the Undergarden being a more neutral and respiteful will be turned on its head. Via the use of Serene Seasons and Enhanced Celestials, I will make the Undergarden go through a cycle similarly to how regular seasons work. 
+In this modpack, the whole idea of the Undergarden being a more neutral and respiteful dimension will be turned on its head. Via the use of Serene Seasons and Enhanced Celestials, I will make the Undergarden go through a cycle similarly to how regular seasons work. 
 
 But unlike seasons (other than temperature change and growing seasons) it will do a number of other things. It will also have a name change. List of changes for each season below (waxing means early, waning means late):
 - Spring:
