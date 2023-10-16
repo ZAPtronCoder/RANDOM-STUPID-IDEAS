@@ -17,8 +17,8 @@ In this modpack, the whole idea of the Undergarden being a more neutral and resp
 But unlike seasons (other than temperature change and growing seasons) it will do a number of other things. It will also have a name change. List of changes for each season below (waxing means early, waning means late):
 - Spring:
     - Renamed to the Nocturn.
-    - Reduced rotspawn spawns, more serene.
-    - Plants will grow slower than normal.
+    - Normal rotspawn spawns.
+    - All plants thrive in this phase.
     - Neutral temperature.
     - Flavor text:
         - The Waxing Nocturn, *"The hostility of the world has fallen under rest."*
@@ -27,8 +27,8 @@ But unlike seasons (other than temperature change and growing seasons) it will d
 
 - Summer:
     - Renamed to the Verdant.
-    - Normal rotspawn spawns, less serene.
-    - Plants will grow faster than normal.
+    - Increased rotspawn spawns, less serene.
+    - All plants thrive in this phase.
     - Hot temperature.
     - Flavor text:
         - The Waxing Verdant, *"The world becomes more exuberant."*
@@ -37,8 +37,8 @@ But unlike seasons (other than temperature change and growing seasons) it will d
 
 - Fall:
     - Renamed to the Forebode.
-    - Increased rotspawn spawns, not the worse.
-    - Plants will grow way slower than normal.
+    - Slightly more increased rotspawn spawns, not the worse.
+    - Only Glitterkelp and Gloomgourd will grow.
     - Neutral, but slightly more cold temperature.
     - Flavor text:
         - The Waxing Forbode, *"The world grows more cold, more hostile."*
@@ -48,7 +48,7 @@ But unlike seasons (other than temperature change and growing seasons) it will d
 - Winter:
     - Renamed to the Harvest.
     - Massively increased rotspawn spawns, unrelenting.
-    - Plants will not grow.
+    - No plants will grow.
     - Freezing temperature.
     - Flavor text:
         - The Waxing Harvest, *"It has arrived."*
