@@ -50,14 +50,33 @@
 - Torpedo (works underwater, less so in air; explosions work as normal underwater)
 
 ## Guns
-**Crude Pistol**
-- fires Pistol Cartridges
-- 3 rounds, 0.5 second firerate
-- internal mag, reloads individual bullets; 1 second reload per bullet
-- mediocre damage
+### Cheap Guns
+**Bark Blaster**
+- fires High-Caliber Cartridges
+- single barrel (1 round)
+- 2 second reload
+- awful range and damage falloff
+- bad spread
+- pressing the trigger has a 50% chance of not firing
+- *"Literally all bark, no bite."*
 
-**Pipe Shotgun**
-- fires Thin Shells
-- 1 round
-- breach-loaded; 3 second reload
-- great point-blank damage, damage falloff is really impactful
+**Scrapshot**
+- fires Shells
+- single barrel (1 round)
+- 2 second reload
+- awful range and damage falloff
+- not that bad spread
+- pressing the trigger has a 25% chance of not firing
+- *"Equally garbage shotgun version of the Bark Blaster.*
+
+### Decent Guns 
+**Ragger**
+- fires Pistol Cartriges
+- mag fed (Pistol Mags)
+- 5 second reload
+- bad damage falloff yet good range
+- decent spread
+- *"Derranged cousin of that one pistol."*
+
+### Pristine Guns
+
