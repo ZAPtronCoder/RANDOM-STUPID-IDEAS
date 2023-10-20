@@ -79,7 +79,7 @@
 - *"What is this? A gun for mice?"*
 
 ### Decent Guns 
-**Ragger** (Ruger)
+**Rugpull** (Ruger)
 - fires Pistol Cartridges
 - mag fed (Pistol Mags)
 - 5 second reload
@@ -112,7 +112,7 @@
 - absurd recoil
 - *"It means 'Big Friendly Gun', what else would it mean?"*
 
-**Poppet PDW** (PP-SH)
+**Poppet** (PP-SH)
 - fires Pistol Cartridges
 - mag fed (Typewriter Mags)
 - 5 second reload
