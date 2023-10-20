@@ -67,7 +67,7 @@
 - awful damage falloff, bad velocity and not that bad of spread (short range)
 - absurd recoil
 - pressing the trigger has a 25% chance of misfiring
-- *"Equally garbage shotgun version of the Bark Blaster.*
+- *"You run-of-the-mill pipe shotgun."*
 
 **Mouse Gun** (Mauser, but more slipshod)
 - fires Pistol Cartridges
