@@ -29,7 +29,7 @@
 - Birdshot (20 pellets)
 - Slug (concentrates all the little bits into one big shot)
 - Arrow Flechette (5 arrows)
-- Dustshot (causes an AOE of redstone activation where it lands)
+- Disruption (causes an AOE of redstone activation where it lands)
 
 **Grenade Shells**
 - Explosive (does decent AOE at a decent range, does not destroy tiles)
