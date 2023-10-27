@@ -8,9 +8,9 @@ The Miracle Berry is based off of the real life "miracle fruit", a fruit that te
 
 The berry itself, when eaten, would give an effect called Transmute that causes all new (as in gained after receiving the Transmute effect) negative potion effects to be converted into their positive version; as in Slowness would turn into Speed, Weakness into Strengh, Poison and Withering into Regeneration. The only drawback is it would cause the converted effect to be on half of its original duration. This drawback can be reverted by getting Transmute II or higher.
 
-One question may be: how would you obtain these? My answer is they would initially be obtained as seeds (called Miracle Seeds) from a Wild Miracle Bud. The wild plant will be hard to find; being quite small, found hidded amongst the lushness of a lush cave, and blending in with the mosses and grasses.
+One question may be: how would you obtain these? My answer is they would initially be obtained as seeds (called Miracle Seeds) from a Suspicious Buds. The bud will be hard to find; being quite small, found hidded amongst the lushness of a lush cave, and blending in with the mosses and grasses.
 
-The crop, when planted, will take forever to grow. It has 15 growing stages; but, it has to be bonemealed once every stage in order to not die; the crop will wither away when not taken care of. The crop, when fully grown, can be harvested by a right-click and will drop 1 berry. The plant will then revert to its 5th stage, and continue growing from there (still have to bonemeal it).
+The seed, when planted, will take forever to grow. It has 15 growing stages; but, it has to be bonemealed once every stage in order to not die; the crop will wither away when not taken care of. The crop, when fully grown, can be harvested by a right-click and will drop 1 berry. The plant will then revert to its 5th stage, and continue growing from there (still have to bonemeal it).
 
 The crop would initially start out as a small bud, and then will gradually grow and open up to reveal a flower. It will then start to curl and form the small berry within the center of the plant.
 
@@ -26,4 +26,6 @@ Some additional addends for the crop would be:
 ### Elder Berry
 The Elder Berry is named after the real life elderberry. The effects of this berry, on the other hand, are not equivalent to the uses of the real fruit.
 
-The berry itself would provide a new effect called Knowledge, an effect would roll loot tables twice (three times, four times, etc. based on level) for ores and mobs. It has additional effect of increasing the amount of EXP gained from mining blocks and killing mobs (by 2×, 3×, etc. based on level). 
+The berry itself would provide a new effect called Knowledge, an effect would roll loot tables twice (3×, 4×, etc. based on level) for ores and mobs. It has additional effect of increasing the amount of EXP gained from mining blocks and killing mobs (by 2×, 3×, etc. based on level). 
+
+You would obtain the seeds (called Elder Seeds) for it by finding Suspicious Vines that hid in tandem within the lush forest of the jungle.
