@@ -17,7 +17,7 @@ The crop would initially start out as a small bud, and then will gradually grow 
 When it comes to food, the berries themselves are average, clocking in at around 3 nutrition, and 3 saturation; they provide only 120 seconds of Transmute I. It can be made into a cake (called Miracle Cake), with each bite providing the same stats as a regular cake, with the additon of providing 30 seconds of Transmute I. If __Farmer's Delight__ is installed cake slice variants of the cake would exist. And if __Neapolitan__ is installed, ice creams and milkshakes (called Miracle Ice Cream and Miracle Milkshake) for the berries would exist. The ice cream would provide 240 seconds of Transmute II; the milkshake will ditto that of Neapolitan's milkshakes, just with Transmute instead of the other effects.
 
 Some additional addends for the crop would be:
-- It works with Rich Soil, shortening the growth time by 3 days. (__Farmer's Delight__)
+- It works with Rich Soil, occasionally skiping having to bonemeal a phase.
 - The crop will give off warning particles if it is close to dying.
 - One seed can be made from putting a berry in a crafting interface.
 
