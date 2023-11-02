@@ -10,7 +10,9 @@ Our plan is to use three library mods to make this whole ordeal work, those mods
 - CoFH Core
     - This will provide us with already existing particles to toy with, textures that dynamically change with stack size, and other misc stuff like the Holding enchantment.
 - playerAnimator
-    - This will provide us with tools for making things like gun animations (reload, idle, firing).
+    - This will provide us with tools for making player-related animations. For holding the guns and whatnot.
+- GeckoLib
+    - This will provide us with tools for making item-related animations. For the gun animations (firing, reloading, etc).
 
 ## How Will it Work?
 ### Bullets and Magazines
