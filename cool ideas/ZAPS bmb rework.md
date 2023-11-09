@@ -19,7 +19,7 @@ Below are all the ideas I have for changing the existing weapons in __Break My B
 Of course I have new ideas for cool and gimmicky weapons.
 - **Shield** variants for materials other than iron.
 - **Parry Shields**, shields that cannot block attacks but can parry with a larger parry window. Attempting to block will hold up the shield for however long the parry window is.
-- **Bulwarks**, shields that cannot parry but can be continuously held up and is immune to block disabling. Attempting to parry will function like a normal block. Deals additonal knockback if used to attack.
+- **Bulwarks**, shields that cannot parry but can be continuously held up and is immune to block disabling. Attempting to parry will function like a normal block. Deals additonal knockback if used to attack. Has longer block wind-up.
 - **Gauntlets** are a heavier version of the knuckles. Gauntlets deal heavy knockback and have moderate damage and attack speed. Gauntlets build up Rage on kill; and for every level of Rage built up, additional damage is gained (10% more, +10% per level). Right-clicking consumes all rage and causes the user to lunge forward, damaging anything in its path, and inflicting Armor Crunch with its level depending on the level of Rage consumed (level of Rage/2).
 - **Polearms** are longer versions of spears. Polearms can be thrown and will stick to targets, causing Armor Crunch and Bleeding II. It takes way longer for the polearm to charge the throw. Follows the same logic with the spear (when it comes to the polearm sticking and falling out).
 ### Mechanic elaboration:
