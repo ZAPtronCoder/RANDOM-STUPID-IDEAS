@@ -58,7 +58,7 @@ These would be made from "Cheap Gun Parts", an item made from cheap materials li
 - Stats are bad, as this is a cheap gun.
    - Awful damage falloff and velocity. Bad range.
    - Awful spread, but one pellet (or arrow, not slug) is guaranteed to be center to the reticle.
-   - Holds 2 (+1) *Thin Shells*, 1.5 second reload (individual), 1 second load time (individual).
+   - Holds 2 (+1) *Thin Shells*, 1.5 second reload (individual), 1 second load time (individual), internal.
    - Firerate dependant on load time.
 - Made from a copper block, Cheap Gun Parts, planks, and a lever.
 - Flavor text: *"A slip-shod shotgun made from cheap materials. It's lever grip bends in order to load in shells from its tube.*
@@ -68,7 +68,7 @@ These would be made from "Cheap Gun Parts", an item made from cheap materials li
 - Stats are bad, as per all cheap guns.
    - Bad damage falloff and velocity. Bad range.
    - Average spread. Spread gets worse as ammo depletes.
-   - Holds 5 (+1) *Pistol Cartridges*, 1 second reload (individual).
+   - Holds 5 (+1) *Pistol Cartridges*, 1 second reload (individual), internal.
    - Average firerate.
 - Made from copper ingots, a lightning rod, Cheap Gun Parts, and planks.
 - Flavor text: *"A lightning rod fashioned into the likes of a pistol. It is said that the shots never hit the same target twice."*
@@ -80,4 +80,16 @@ These would require "Decent Gun Parts", a more midtier item that requires iron a
 These would require "Pristine Gun Parts", and item that requires more expensive materials.
 
 ### Exotic Guns
-These would be found as treasure and would do unique and gimmicky things.
+These would be found as treasure or as rare oddities and would do unique and gimmicky things.
+
+**Stickybomb Launcher**
+- Look is that of the Stickybomb Launcher from ***TF2***.
+- Stats are... unique. List of the gimmicky stuff is in here too.
+   - Isn't effected by damage falloff. Velocity/range is determined by how long the launcher was charged.
+   - Has 1° of deviation.
+   - Holds 6 *Grenade Shells*, 2 second reload (individual), 0.5 second load time (individual), internal.
+   - Instead of regular firerate, the gun has "charge", which is charged by holding down the fire key. Takes 5 seconds to fully charge. Charge can be released at any time, affecting velocity/range of the grenade.
+   - Cannot aim.
+   - *Grenade Shells*, when fired, are turned into *Stickybombs* which will stick to surfaces instead of detonating on contact. *Stickybombs* can be detanated by pressing the aim key while holding the stickybomb. *Stickybombs* can be destroyed by projectiles; and, *Stickybombs* will detonate automatically after 10 minutes of existing, or when over 12 *Stickybombs* are placed.
+- Obtained as a rare trade from master *Gunsmith* villagers.
+- Flavor text: *"Couldn't ya see the bloody bombs?"*
