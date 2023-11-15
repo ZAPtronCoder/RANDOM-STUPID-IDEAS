@@ -90,6 +90,6 @@ These would be found as treasure or as rare oddities and would do unique and gim
    - Holds 6 *Grenade Shells*, 2 second reload (individual), 0.5 second load time (individual), internal.
    - Instead of regular firerate, the gun has "charge", which is charged by holding down the fire key. Takes 5 seconds to fully charge. Charge can be released at any time, affecting velocity/range of the grenade.
    - Cannot aim.
-   - *Grenade Shells*, when fired, are turned into *Stickybombs* which will stick to surfaces instead of detonating on contact. *Stickybombs* can be detanated by pressing the aim key while holding the stickybomb. *Stickybombs* can be destroyed by projectiles; and, *Stickybombs* will detonate automatically after 10 minutes of existing, or when over 12 *Stickybombs* are placed.
+   - *Grenade Shells*, when fired, are turned into *Stickybombs* which will stick to surfaces instead of detonating on contact. *Stickybombs* can be detanated by pressing the aim key while holding the gun. *Stickybombs* can be destroyed by projectiles; and, *Stickybombs* will detonate automatically after 10 minutes of existing, or when over 12 *Stickybombs* are placed. *Honey (Grenade Shell) Stickybombs* will take 2 seconds to detonate after the aim key is pressed.
 - Obtained as a rare trade from master *Gunsmith* villagers.
 - Flavor text: *"Couldn't ya see the bloody bombs?"*
