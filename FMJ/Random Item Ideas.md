@@ -2,43 +2,43 @@
 **Pistol Cartridges**
 - Normal
 - Blank (fires no bullet)
-- Tracer (can be dyed)
-- Shotshell (converts the normal bullet into a spread of 8 small projectiles)
+- Tracer (leaves behind a trail of smoke that can be dyed)
+- Shotshell (converts the normal bullet into a spread of 4 small projectiles)
 
 **Rifle Cartridges**
 - Normal
 - Blank (fires no bullet)
-- Tracer (can be dyed)
+- Tracer (leaves behind a trail of smoke that can be dyed)
 - Superspeed (faster and more accurate than regular bullets)
 
 **High-Caliber Cartridges**
 - Normal
 - Blank (fires no bullet)
-- Tracer (can be dyed)
-- Explosive (does splash damage)
+- Tracer (leaves behind a trail of smoke that can be dyed)
+- Explosive (direct hit damage is lowered but does additional explosive splash damage around it that does not destroy tiles)
 
 **Thin Shells**
 - Normal (4 pellets)
-- Birdshot (6 pellets)
+- Birdshot (6 pellets, more spread)
 - Slug (concentrates all the little bits into one big shot)
-- Arrow Flechette (2 arrows)
-- Torch Slug (lights targets on fire, places a torch when it lands)
+- Arrow Flechette (2 arrows instead of pellets)
+- Torch Slug (lights targets on fire, places a torch if it lands on a block)
 
 **Shells**
 - Normal (6 pellets)
-- Birdshot (8 pellets)
+- Birdshot (9 pellets, more spread)
 - Slug (concentrates all the little bits into one big shot)
-- Arrow Flechette (5 arrows)
-- Disruption (causes an AOE of redstone activation where it lands)
+- Arrow Flechette (5 arrows instead of pellets)
+- Disruption (shoots a dust cloud projectile that causes an AOE of redstone activation where it lands, heavily affected by gravity)
 
 **Grenade Shells**
 - Explosive (does decent AOE at a decent range, does not destroy tiles)
 - Sponge (1 large soft sponge, does good damage on a direct hit but is not explosive)
-- Ender (launches a pearl when firing, will teleport you when it lands; causes Enderference if it hits an entity)
+- Ender (launches a pearl when firing, will teleport you to where it lands; causes Enderference if it hits an entity; is not explosive)
 - Jumper (deals extra knockback, but deals no damage)
 - Bouncy (slimeballs cause grenade to bounce 2 times before exploding)
 - Sticky (honey causes grenade to stick to surfaces and explode 2 seconds later)
-- Potion (creates a larger lingering area effect cloud when it lands)
+- Potion (creates a larger lingering area effect cloud where it lands, does not explode)
 
 **Rockets**
 - Explosive (does good AOE at a good range, does not destroy tiles)
@@ -59,7 +59,7 @@ These would be made from "Cheap Gun Parts", an item made from cheap materials li
    - Awful damage falloff and velocity. Bad range.
    - Awful spread, but one pellet (or arrow, not slug) is guaranteed to be center to the reticle.
    - Holds 2 (+1) *Thin Shells*, 1.5 second reload (individual), 1 second load time (individual), internal.
-   - Firerate dependant on load time.
+   - Firerate dependant on load time, pump-action.
 - Made from a copper block, Cheap Gun Parts, planks, and a lever.
 - Flavor text: *"A slip-shod shotgun made from cheap materials. It's lever grip bends in order to load in shells from its tube.*
 
@@ -69,18 +69,27 @@ These would be made from "Cheap Gun Parts", an item made from cheap materials li
    - Bad damage falloff and velocity. Bad range.
    - Average spread. Spread gets worse as ammo depletes.
    - Holds 5 (+1) *Pistol Cartridges*, 1 second reload (individual), internal.
-   - Average firerate.
+   - Average firerate, semiautomatic.
 - Made from copper ingots, a lightning rod, Cheap Gun Parts, and planks.
 - Flavor text: *"A lightning rod fashioned into the likes of a pistol. It is said that the shots never hit the same target twice."*
 
 ### Decent Guns 
 These would require "Decent Gun Parts", a more midtier item that requires iron and redstone.
 
+**Piston-Tol**
+- Look is that of a pistol with a piston-like slide, it has a barrel and grip of iron (gunmetal-esque).
+- Stats are mediocre at best.
+   - Average damage falloff and velocity. Decent range.
+   - Average spread.
+   - Uses *Pistol Mags*, 5 second reload.
+   - Average firerate, semiautomatic.
+- Made from iron ingots, redstone, Decent Gun Parts, a piston, and a redstone torch. 
+- Flavor text: *"A pistol with a slide made from a piston. A nice and average firearm that is all around useful."*
 ### Pristine Guns
 These would require "Pristine Gun Parts", and item that requires more expensive materials.
 
 ### Exotic Guns
-These would be found as treasure or as rare oddities and would do unique and gimmicky things.
+These would be obtained as treasure or as rare oddities from various sources and would do unique and gimmicky things.
 
 **Stickybomb Launcher**
 - Look is that of the Stickybomb Launcher from ***TF2***.
@@ -90,6 +99,6 @@ These would be found as treasure or as rare oddities and would do unique and gim
    - Holds 6 *Grenade Shells*, 2 second reload (individual), 0.5 second load time (individual), internal.
    - Instead of regular firerate, the gun has "charge", which is charged by holding down the fire key. Takes 5 seconds to fully charge. Charge can be released at any time, affecting velocity/range of the grenade.
    - Cannot aim.
-   - *Grenade Shells*, when fired, are turned into *Stickybombs* which will stick to surfaces instead of detonating on contact. *Stickybombs* can be detanated by pressing the aim key while holding the gun. *Stickybombs* can be destroyed by projectiles; and, *Stickybombs* will detonate automatically after 10 minutes of existing, or when over 12 *Stickybombs* are placed. *Honey (Grenade Shell) Stickybombs* will take 2 seconds to detonate after the aim key is pressed.
+   - *Grenade Shells*, when fired, are converted into *Stickybombs* which will stick to surfaces instead of detonating on contact. *Stickybombs* can be detanated by pressing the aim key while holding the gun. *Stickybombs* can be destroyed by projectiles; and, *Stickybombs* will detonate automatically after 10 minutes of existing, or when over 12 *Stickybombs* are placed. *Honey (Grenade Shell) Stickybombs* will take 2 seconds to detonate after the aim key is pressed.
 - Obtained as a rare trade from master *Gunsmith* villagers.
-- Flavor text: *"Couldn't ya see the bloody bombs?"*
+- Flavor text: *"KAHBLOO-AYYY!"*
