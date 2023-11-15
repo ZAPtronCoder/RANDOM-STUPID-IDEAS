@@ -18,15 +18,15 @@
 - Explosive (does splash damage)
 
 **Thin Shells**
-- Normal (10 pellets)
-- Birdshot (15 pellets)
+- Normal (4 pellets)
+- Birdshot (6 pellets)
 - Slug (concentrates all the little bits into one big shot)
 - Arrow Flechette (2 arrows)
 - Torch Slug (lights targets on fire, places a torch when it lands)
 
 **Shells**
-- Normal (12 pellets)
-- Birdshot (20 pellets)
+- Normal (6 pellets)
+- Birdshot (8 pellets)
 - Slug (concentrates all the little bits into one big shot)
 - Arrow Flechette (5 arrows)
 - Disruption (causes an AOE of redstone activation where it lands)
@@ -53,15 +53,25 @@
 ### Cheap Guns
 These would be made from "Cheap Gun Parts", an item made from cheap materials like flint and copper.
 
-**Lever-Action Shotgun**
+**Levergun**
 - Look is that of a shotgun with a short copper barrel and wooden frame with tube storage underneath the barrel. Has no stock. Grip looks like a lever that is flipped to load in the next shell from the tube.
 - Stats are bad, as this is a cheap gun.
    - Awful damage falloff and velocity. Bad range.
-   - Bad spread, but one pellet (or arrow, not slug) is guaranteed to be center to the reticle.
-   - Holds 2 (+1) *Thin Shells*, 1 second reload (individual), 0.5 second load time (individual).
+   - Awful spread, but one pellet (or arrow, not slug) is guaranteed to be center to the reticle.
+   - Holds 2 (+1) *Thin Shells*, 1.5 second reload (individual), 1 second load time (individual).
    - Firerate dependant on load time.
-- Made from copper, Cheap Gun Parts, planks, and a lever.
-- Flavor text: *"A slip-shod shotgun made from cheap materials. It's grip bends in order to load in shells from its tube.*
+- Made from a copper block, Cheap Gun Parts, planks, and a lever.
+- Flavor text: *"A slip-shod shotgun made from cheap materials. It's lever grip bends in order to load in shells from its tube.*
+
+**Ballend**
+- Look is that of a pistol with a copper barrel with a wooden grip and finger guard. It has a bulbus ball on the end of the slide that looks like a lightning rod.
+- Stats are bad, as per all cheap guns.
+   - Bad damage falloff and velocity. Bad range.
+   - Bad spread. Spread gets worse as ammo depletes.
+   - Holds 5 (+1) *Pistol Cartridges*, 1 second reload (individual).
+   - Average firerate.
+- Made from copper ingots, a lightning rod, Cheap Gun Parts, and planks.
+- Flavor text: *"A lightning rod fashioned into the likes of a pistol. It is said that the shots never hit the same target twice."*
 
 ### Decent Guns 
 These would require "Decent Gun Parts", a more midtier item that requires iron and redstone.
