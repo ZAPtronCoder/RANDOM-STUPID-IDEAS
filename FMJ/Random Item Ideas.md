@@ -51,78 +51,23 @@
 
 ## Guns
 ### Cheap Guns
-**Splinter** (a literal wood gun)
-- fires High-Caliber Cartridges
-- single barrel (1 round)
-- 2 second reload
-- awful damage falloff, bad spread and velocity (short range)
-- absurd recoil
-- pressing the trigger has a 50% chance of misfiring
-- *"Literally all bark, no bite."*
+These would be made from "Cheap Gun Parts", an item made from cheap materials like flint and copper.
 
-**Scrapshot** (stereotypical pipe shotgun)
-- fires Shells
-- single-barrel break-action (1 round)
-- 2 second reload
-- awful damage falloff, bad velocity and not that bad of spread (short range)
-- absurd recoil
-- pressing the trigger has a 25% chance of misfiring
-- *"You run-of-the-mill pipe shotgun."*
-
-**Mouse Gun** (Mauser, but more slipshod)
-- fires Pistol Cartridges
-- internal mag (5 rounds)
-- 1 second reload (individual bullet)
-- like a worse Ragger
-- not bad recoil
-- pressing the trigger has a 25% chance of misfiring
-- *"What is this? A gun for mice?"*
+**Lever-Action Shotgun**
+- Look is that of a shotgun with a short copper barrel and wooden frame with tube storage underneath the barrel. Has no stock. Grip looks like a lever that is flipped to load in the next shell from the tube.
+- Stats are bad, as this is a cheap gun.
+   - Awful damage falloff and velocity. Bad range.
+   - Bad spread, but one pellet (or arrow, not slug) is guaranteed to be center to the reticle.
+   - Holds 3 (+1) *Thin Shells*, 1 second reload (individual), 0.5 second load time (individual).
+   - Firerate dependant on load time.
+- Made from copper, Cheap Gun Parts, planks, and a lever.
+- Flavor text: *"A slip-shod shotgun made from cheap materials. It's grip bends in order to load in shells from its tube.*
 
 ### Decent Guns 
-**Rugpull** (Ruger)
-- fires Pistol Cartridges
-- mag fed (Pistol Mags)
-- 5 second reload
-- bad damage falloff, decent spread and velocity (mid range)
-- decent recoil and firerate (semi-auto)
-- *"Derranged cousin of that one pistol."*
-
-**Thumper** (M79 without the stock)
-- fires Grenade Shells
-- single-barrel break-action (1 round)
-- 3 second reload
-- tight spread and good velocity (for grenades that is)
-- absurd recoil
-- *"Classic noob tube."*
+These would require "Decent Gun Parts", a more midtier item that requires iron and redstone.
 
 ### Pristine Guns
-**Typewriter** (Tommy Gun)
-- fires Pistol Cartridges
-- mag fed (Typewriter Mags)
-- 5 second reload
-- decent damage falloff, good spread and velocity (mid range)
-- decent recoil and firerate (auto)
-- *"Rattle 'em boys!"*
+These would require "Pristine Gun Parts", and item that requires more expensive materials.
 
-**BFG** (breach loaded tube sniper)
-- fires High-Caliber Cartridges
-- breach loaded (1 round)
-- 10 second reload
-- really good damage falloff, amazing spread and velocity (long range)
-- absurd recoil
-- *"It means 'Big Friendly Gun', what else would it mean?"*
-
-**Poppet** (PP-SH)
-- fires Pistol Cartridges
-- mag fed (Typewriter Mags)
-- 5 second reload
-- take all the aspects of the Typewriter; make it super inaccurate and have fast firerate
-- *"The Typewriter's wild little sibling."*
-
-**Heck Cannon** (Hecate)
-- fires High-Caliber Cartridges
-- mag fed (High-Caliber Recon Mags)
-- 10 second reload
-- stats comparable to a BFG, but worse
-- absure recoil
-- *"It's as anti-material as anti-materal gets."*
+### Exotic Guns
+These would be found as treasure and would do unique and gimmicky things.
