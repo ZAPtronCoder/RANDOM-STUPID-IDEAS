@@ -67,7 +67,7 @@ These would be made from "Cheap Gun Parts", an item made from cheap materials li
 - Look is that of a pistol with a copper barrel with a wooden grip and finger guard. It has a bulbus ball on the end of the slide that looks like a lightning rod.
 - Stats are bad, as per all cheap guns.
    - Bad damage falloff and velocity. Bad range.
-   - Bad spread. Spread gets worse as ammo depletes.
+   - Average spread. Spread gets worse as ammo depletes.
    - Holds 5 (+1) *Pistol Cartridges*, 1 second reload (individual).
    - Average firerate.
 - Made from copper ingots, a lightning rod, Cheap Gun Parts, and planks.
