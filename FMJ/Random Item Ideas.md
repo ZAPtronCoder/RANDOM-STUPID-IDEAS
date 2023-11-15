@@ -58,7 +58,7 @@ These would be made from "Cheap Gun Parts", an item made from cheap materials li
 - Stats are bad, as this is a cheap gun.
    - Awful damage falloff and velocity. Bad range.
    - Bad spread, but one pellet (or arrow, not slug) is guaranteed to be center to the reticle.
-   - Holds 3 (+1) *Thin Shells*, 1 second reload (individual), 0.5 second load time (individual).
+   - Holds 2 (+1) *Thin Shells*, 1 second reload (individual), 0.5 second load time (individual).
    - Firerate dependant on load time.
 - Made from copper, Cheap Gun Parts, planks, and a lever.
 - Flavor text: *"A slip-shod shotgun made from cheap materials. It's grip bends in order to load in shells from its tube.*
