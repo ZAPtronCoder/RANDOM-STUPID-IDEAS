@@ -73,6 +73,16 @@ These would be made from "Cheap Gun Parts", an item made from cheap materials li
 - Made from copper ingots, a lightning rod, Cheap Gun Parts, and planks.
 - Flavor text: *"A lightning rod fashioned into the likes of a pistol. It is said that the shots never hit the same target twice."*
 
+**Pipe Rifle**
+- Look is that of a rifle with a copper barrel and a bolt. It has a wood finish with no stock.
+- Stats are bad, ditto previous cheap gun statements.
+   - Bad damage falloff but average velocity. Acceptable range.
+   - Average spread.
+   - Holds 1 *Rifle Cartridge*, 2 second reload, internal.
+   - Firerate dependant on reload time, bolt-action.
+- Made from a copper block, a copper ingot, string, a log, and Cheap Gun Parts.
+- Flavor text: *"A ordinary gun with no uniqueness to its design, has it's usefulness at midrange."*
+
 ### Decent Guns 
 These would require "Decent Gun Parts", a more midtier item that requires iron and redstone.
 
@@ -85,6 +95,7 @@ These would require "Decent Gun Parts", a more midtier item that requires iron a
    - Average firerate, semiautomatic.
 - Made from iron ingots, redstone, Decent Gun Parts, a piston, and a redstone torch. 
 - Flavor text: *"A pistol with a slide made from a piston. A nice and average firearm that is all around useful."*
+
 ### Pristine Guns
 These would require "Pristine Gun Parts", and item that requires more expensive materials.
 
