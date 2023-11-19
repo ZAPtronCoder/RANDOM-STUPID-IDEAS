@@ -99,6 +99,26 @@ These would require "Decent Gun Parts", a more midtier item that requires iron a
 ### Pristine Guns
 These would require "Pristine Gun Parts", and item that requires more expensive materials.
 
+**Shulkershot**
+- Look is hard to describe so just trust me.
+- Stats are pretty good, it also has one cool function.
+   - Average damage falloff and velocity. Bullets curve upwards instead of downwards, so... interesting range I guess?
+   - Above-average spread.
+   - Uses *Rifle Mags*, 8 second reload.
+   - Average firerate, automatic.
+- Made from purpur, shulker shells, Pristine Gun Parts, iron, an ender pearl, and a tripwire.
+- Flavor text: *"Despite not being considered an exotic gun, it still has a cool ability to make bullets defy gravity."*
+
+**Dragunfire**
+- Looks is that of a rifle with dragon wings, its barrel emerges from a small dragon's head.
+- Stats are really good.
+   - Above average damage falloff and velocity. Good range.
+   - Bad spread.
+   - Uses *Rifle Mags*, 8 second reload.
+   - Fast firerate, automatic.
+- Made from endstone, obsidian, crying obsidian, dragon's breath, Pristine Gun Parts, netherite, and a dragon head.
+- Flavor text: *"Finely balanced, rapid fire. Roar."*
+
 ### Exotic Guns
 These would be obtained as treasure or as rare oddities from various sources and would do unique and gimmicky things.
 
