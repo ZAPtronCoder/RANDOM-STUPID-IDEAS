@@ -61,6 +61,7 @@ These would be made from "Cheap Gun Parts", an item made from cheap materials li
    - Holds 2 (+1) *Thin Shells*, 1.5 second reload (individual), 1 second load time (individual), internal.
    - Firerate dependent on load time, pump-action.
 - Made from a copper block, Cheap Gun Parts, planks, and a lever.
+- Has barrel, stock, sight, and underbarrel attachment points.
 - Flavor text: *"A slip-shod shotgun made from cheap materials. It's lever grip bends in order to load in shells from its tube."*
 
 **Ballend**
@@ -71,6 +72,7 @@ These would be made from "Cheap Gun Parts", an item made from cheap materials li
    - Holds 5 (+1) *Pistol Cartridges*, 1 second reload (individual), internal.
    - Average firerate, semiautomatic.
 - Made from copper ingots, a lightning rod, Cheap Gun Parts, and planks.
+- Has barrel, stock, sight, and underbarrel attachment points.
 - Flavor text: *"A lightning rod fashioned into the likes of a pistol. It is said that the shots never hit the same target twice."*
 
 **Pipe Rifle**
@@ -81,6 +83,7 @@ These would be made from "Cheap Gun Parts", an item made from cheap materials li
    - Holds 1 *Rifle Cartridge*, 2 second reload, internal.
    - Firerate dependant on reload time, bolt-action.
 - Made from a copper block, a copper ingot, string, a log, and Cheap Gun Parts.
+- Has barrel, stock, sight, and underbarrel attachment points.
 - Flavor text: *"A ordinary gun with no uniqueness to its design, has it's usefulness at midrange."*
 
 ### Decent Guns 
@@ -93,8 +96,20 @@ These would require "Decent Gun Parts", a more midtier item that requires iron a
    - Average spread.
    - Uses *Pistol Mags*, 5 second reload.
    - Average firerate, semiautomatic.
-- Made from iron ingots, redstone, Decent Gun Parts, a piston, and a redstone torch. 
+- Made from iron ingots, redstone, Decent Gun Parts, a piston, and a redstone torch.
+- Has barrel, stock, sight, underbarrel, and mag attachment points.
 - Flavor text: *"A pistol with a slide made from a piston. A nice and average firearm that is all around useful."*
+
+**Chester**
+- Look is similar to that of a M79, but with the break looking like a chest; no stock.
+- Stats are basic, as it is a single barreled grenade launcher.
+   - Average damage falloff, decent velocity for a grenade launcher. Average range for a lobbing weapon.
+   - No spread.
+   - Holds 1 *Grenade Shell*, 3 second reload, internal.
+   - Firerate dependant on reload, break action.
+- Made from iron ingots, a tripwire, a chest, and a log.
+- Has stock, sight, and underbarrel attachment points.
+- Flavor text: *"A chest modified to fire grenades. Wacky."*
 
 ### Pristine Guns
 These would require "Pristine Gun Parts", and item that requires more expensive materials.
@@ -107,6 +122,7 @@ These would require "Pristine Gun Parts", and item that requires more expensive 
    - Uses *Rifle Mags*, 8 second reload.
    - Average firerate, automatic.
 - Made from purpur, shulker shells, Pristine Gun Parts, iron, an ender pearl, and a tripwire.
+- Has stock, sight, underbarrel, and mag attachment points.
 - Flavor text: *"Despite not being considered an exotic gun, it still has a cool ability to make bullets defy gravity."*
 
 **Dragunfire**
@@ -117,6 +133,7 @@ These would require "Pristine Gun Parts", and item that requires more expensive 
    - Uses *Rifle Mags*, 8 second reload.
    - Fast firerate, automatic.
 - Made from endstone, obsidian, crying obsidian, dragon's breath, Pristine Gun Parts, netherite, and a dragon head.
+- Has barrel, stock, sight, underbarrel, and mag attachment points.
 - Flavor text: *"Finely balanced, rapid fire. Roar."*
 
 ### Exotic Guns
@@ -132,4 +149,9 @@ These would be obtained as treasure or as rare oddities from various sources and
    - Cannot aim.
    - *Grenade Shells*, when fired, are converted into *Stickybombs* which will stick to surfaces instead of detonating on contact. *Stickybombs* can be detanated by pressing the aim key while holding the gun. *Stickybombs* can be destroyed by projectiles; and, *Stickybombs* will detonate automatically after 10 minutes of existing, or when over 12 *Stickybombs* are placed. *Honey (Grenade Shell) Stickybombs* will take 2 seconds to detonate after the aim key is pressed.
 - Obtained as a rare trade from master *Gunsmith* villagers.
+- Has stock, sight, and underbarrel attachment points.
 - Flavor text: *"KAHBLOO-AYYY!"*
+
+## Attachments
+### Barrel 
+These would be attached to the barrel of a gun and would modify bullets and the firing of the gun.
