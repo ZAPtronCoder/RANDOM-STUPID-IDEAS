@@ -155,3 +155,9 @@ These would be obtained as treasure or as rare oddities from various sources and
 ## Attachments
 ### Barrel 
 These would be attached to the barrel of a gun and would modify bullets and the firing of the gun.
+
+## Misc. Ideas
+**Gunboats**
+- Originally, the idea was for it to be a piece of armor that would go in the boot slot that would provide 50% less self-explosion damage when worn.
+- Now, the concept is for it to be an enchantment for boots, which would initally provide 25% self-explosion damage protection (+25% per level).
+- Would cap at level IV.
