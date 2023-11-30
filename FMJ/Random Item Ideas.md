@@ -177,10 +177,12 @@ These would be attached to the barrel of a gun and would modify bullets and the 
    - Originally, the idea was for it to be a piece of armor that would go in the boot slot that would provide 50% less self-explosion damage when worn.
    - Now, the concept is for it to be an enchantment for boots, which would initally provide 25% self-explosion damage protection (+25% per level).
    - Would cap at level IV, allowing people to get full self-explosive immunity.
+
 - *Reservoir*
    - An enchantment for magazines.
    - Would increase magazine capacity by 25% (+25% per level).
    - Caps at 100% at IV, doubling mag capacity.
+
 - *Flame*
    - A vanilla enchantment that can be applied to guns that aren't rocket or grenade launchers.
    - Would make bullets fired from the gun ignite enemies for 3 seconds.
@@ -188,6 +190,7 @@ These would be attached to the barrel of a gun and would modify bullets and the 
    - A curse that can be applied to all guns.
    - Gives a gun a 10% chance to misfire, causing a round to be consumed, but no round fired.
    - Becomes 5% if applied to rocket or grenade launchers.
+
 - *Infinity*
    - A vanilla enchantment that can be applied to all guns.
    - Causes all guns to be able to fire spectral bullets when empty.
