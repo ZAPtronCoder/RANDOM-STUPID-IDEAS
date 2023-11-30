@@ -63,6 +63,7 @@ These would be made from "Cheap Gun Parts", an item made from cheap materials li
 - Made from a copper pipe, Cheap Gun Parts, planks, a stick, and a lever.
 - Has barrel, stock, sight, and underbarrel attachment points.
 - Flavor text: *"A slip-shod shotgun made from cheap materials. It's lever grip bends in order to load in shells from its tube."*
+
 ![image](https://github.com/ZAPtronCoder/RANDOM-STUPID-IDEAS/assets/106001153/15bcd35e-31c0-41ff-98a8-496da4e841a4)
 
 
@@ -76,6 +77,7 @@ These would be made from "Cheap Gun Parts", an item made from cheap materials li
 - Made from copper pipe, a lightning rod, Cheap Gun Parts, and planks.
 - Has barrel, sight, and underbarrel attachment points.
 - Flavor text: *"A lightning rod fashioned into the likes of a pistol. It is said that the shots never hit the same target twice."*
+
 ![image](https://github.com/ZAPtronCoder/RANDOM-STUPID-IDEAS/assets/106001153/23f8860d-5104-4eb9-80e5-87007a320377)
 
 
@@ -89,6 +91,7 @@ These would be made from "Cheap Gun Parts", an item made from cheap materials li
 - Made from a copper block, 2 copper pipes, string, a log, and Cheap Gun Parts.
 - Has barrel, stock, sight, and underbarrel attachment points.
 - Flavor text: *"A ordinary gun with no uniqueness to its design, has it's usefulness at midrange."*
+
 ![image](https://github.com/ZAPtronCoder/RANDOM-STUPID-IDEAS/assets/106001153/bc6dd342-9a8c-424a-a5ae-d6cca6af1f31)
 
 ### Decent Guns 
@@ -115,6 +118,7 @@ These would require "Decent Gun Parts", a more midtier item that requires iron a
 - Made from iron ingots, a tripwire, a chest, and a log.
 - Has stock, sight, and underbarrel attachment points.
 - Flavor text: *"A chest modified to fire grenades. Did you eat breakfast this morning?"*
+
 ![image](https://github.com/ZAPtronCoder/RANDOM-STUPID-IDEAS/assets/106001153/d1a1976e-40d1-4a08-a91a-bae684649ef9)
 
 ### Pristine Guns
