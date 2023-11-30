@@ -186,6 +186,7 @@ These would be attached to the barrel of a gun and would modify bullets and the 
 - *Flame*
    - A vanilla enchantment that can be applied to guns that aren't rocket or grenade launchers.
    - Would make bullets fired from the gun ignite enemies for 3 seconds.
+
 - *Curse of Ineptitude*
    - A curse that can be applied to all guns.
    - Gives a gun a 10% chance to misfire, causing a round to be consumed, but no round fired.
@@ -194,5 +195,8 @@ These would be attached to the barrel of a gun and would modify bullets and the 
 - *Infinity*
    - A vanilla enchantment that can be applied to all guns.
    - Causes all guns to be able to fire spectral bullets when empty.
-      - Spectral bullets do 50% less damage (and have 50% less of an explosion radius) and have slightly worse velocity compared to their normal counterpart.
-      - Inherits exotic gun's abilities.
+   - Spectral bullets function just like their normal variants besides a few differences.
+      - Spectral bullets do 50% less damage (50% less of an explosion radius too for explosive guns) and have slightly worse velocity compared to their normal counterpart.
+      - Inherits exotic gun's abilities (ie. firing spectral *Stickybombs* from the *Stickybomb Launcher*).
+   - Causes the gun to have unique firing noises when firing spectral bullets.
+   - Reloading is normal, no need to reload spectral bullets.
