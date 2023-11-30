@@ -60,7 +60,7 @@ These would be made from "Cheap Gun Parts", an item made from cheap materials li
    - Awful spread, but one pellet (or arrow, not slug) is guaranteed to be center to the reticle.
    - Holds 2 (+1) *Thin Shells*, 1.5 second reload (individual), 1 second load time (individual), internal.
    - Firerate dependent on load time, pump-action.
-- Made from a copper block, Cheap Gun Parts, planks, and a lever.
+- Made from a copper pipe, Cheap Gun Parts, planks, a stick, and a lever.
 - Has barrel, stock, sight, and underbarrel attachment points.
 - Flavor text: *"A slip-shod shotgun made from cheap materials. It's lever grip bends in order to load in shells from its tube."*
 
@@ -71,8 +71,8 @@ These would be made from "Cheap Gun Parts", an item made from cheap materials li
    - Average spread. Spread gets worse as ammo depletes.
    - Holds 5 (+1) *Pistol Cartridges*, 1 second reload (individual), internal.
    - Average firerate, semiautomatic.
-- Made from copper ingots, a lightning rod, Cheap Gun Parts, and planks.
-- Has barrel, stock, sight, and underbarrel attachment points.
+- Made from copper pipe, a lightning rod, Cheap Gun Parts, and planks.
+- Has barrel, sight, and underbarrel attachment points.
 - Flavor text: *"A lightning rod fashioned into the likes of a pistol. It is said that the shots never hit the same target twice."*
 
 **Pipe Rifle**
@@ -82,7 +82,7 @@ These would be made from "Cheap Gun Parts", an item made from cheap materials li
    - Average spread.
    - Holds 1 *Rifle Cartridge*, 2 second reload, internal.
    - Firerate dependant on reload time, bolt-action.
-- Made from a copper block, a copper ingot, string, a log, and Cheap Gun Parts.
+- Made from a copper block, 2 copper pipes, string, a log, and Cheap Gun Parts.
 - Has barrel, stock, sight, and underbarrel attachment points.
 - Flavor text: *"A ordinary gun with no uniqueness to its design, has it's usefulness at midrange."*
 
@@ -109,7 +109,7 @@ These would require "Decent Gun Parts", a more midtier item that requires iron a
    - Firerate dependant on reload, break action.
 - Made from iron ingots, a tripwire, a chest, and a log.
 - Has stock, sight, and underbarrel attachment points.
-- Flavor text: *"A chest modified to fire grenades. Wacky."*
+- Flavor text: *"A chest modified to fire grenades. Did you eat breakfast this morning?"*
 
 ### Pristine Guns
 These would require "Pristine Gun Parts", and item that requires more expensive materials.
@@ -121,7 +121,7 @@ These would require "Pristine Gun Parts", and item that requires more expensive 
    - Above-average spread.
    - Uses *Rifle Mags*, 8 second reload.
    - Average firerate, automatic.
-- Made from purpur, shulker shells, Pristine Gun Parts, iron, an ender pearl, and a tripwire.
+- Made from purpur, shulker shells, Pristine Gun Parts, an iron pipe, an ender pearl, and a tripwire.
 - Has stock, sight, underbarrel, and mag attachment points.
 - Flavor text: *"Despite not being considered an exotic gun, it still has a cool ability to make bullets defy gravity."*
 
@@ -132,7 +132,7 @@ These would require "Pristine Gun Parts", and item that requires more expensive 
    - Bad spread.
    - Uses *Rifle Mags*, 8 second reload.
    - Fast firerate, automatic.
-- Made from endstone, obsidian, crying obsidian, dragon's breath, Pristine Gun Parts, netherite, and a dragon head.
+- Made from endstone, obsidian, crying obsidian, dragon's breath, Pristine Gun Parts, a netherite pipe, and a dragon head.
 - Has barrel, stock, sight, underbarrel, and mag attachment points.
 - Flavor text: *"Finely balanced, rapid fire. Roar."*
 
@@ -149,15 +149,47 @@ These would be obtained as treasure or as rare oddities from various sources and
    - Cannot aim.
    - *Grenade Shells*, when fired, are converted into *Stickybombs* which will stick to surfaces instead of detonating on contact. *Stickybombs* can be detanated by pressing the aim key while holding the gun. *Stickybombs* can be destroyed by projectiles; and, *Stickybombs* will detonate automatically after 10 minutes of existing, or when over 12 *Stickybombs* are placed. *Honey (Grenade Shell) Stickybombs* will take 2 seconds to detonate after the aim key is pressed.
 - Obtained as a rare trade from master *Gunsmith* villagers.
-- Has stock, sight, and underbarrel attachment points.
+- Has a stock attachment point.
 - Flavor text: *"KAHBLOO-AYYY!"*
 
 ## Attachments
 ### Barrel 
 These would be attached to the barrel of a gun and would modify bullets and the firing of the gun.
 
+**Charger**
+- A basic little barrel attachment that would slightly increase the velocity of bullets, effecting range and damage falloff.
+- Stats were already explained but whatever.
+   - Effects velocity positively.
+   - Slightly increases the volume (sound) of gunfire.
+- Made with a lightning rod, copper, and redstone.
+
 ## Misc. Ideas
-**Gunboats**
-- Originally, the idea was for it to be a piece of armor that would go in the boot slot that would provide 50% less self-explosion damage when worn.
-- Now, the concept is for it to be an enchantment for boots, which would initally provide 25% self-explosion damage protection (+25% per level).
-- Would cap at level IV.
+**Various Ingredients for Ease of Crafting**
+- *Pipes*
+   - Made of either copper, iron, or netherite.
+   - Used as ingredient for making guns (used as a barrel).
+   - Made by putting 3 ingots vertically in a crafting table.
+   - Can be placed as a very basic connecting decoration.
+   - Can be crafted back into ingots.
+
+**Enchantments**
+- *Gunboats*
+   - Originally, the idea was for it to be a piece of armor that would go in the boot slot that would provide 50% less self-explosion damage when worn.
+   - Now, the concept is for it to be an enchantment for boots, which would initally provide 25% self-explosion damage protection (+25% per level).
+   - Would cap at level IV, allowing people to get full self-explosive immunity.
+- *Reservoir*
+   - An enchantment for magazines.
+   - Would increase magazine capacity by 25% (+25% per level).
+   - Caps at 100% at IV, doubling mag capacity.
+- *Flame*
+   - A vanilla enchantment that can be applied to guns that aren't rocket or grenade launchers.
+   - Would make bullets fired from the gun ignite enemies for 3 seconds.
+- *Curse of Ineptitude*
+   - A curse that can be applied to all guns.
+   - Gives a gun a 10% chance to misfire, causing a round to be consumed, but no round fired.
+   - Becomes 5% if applied to rocket or grenade launchers.
+- *Infinity*
+   - A vanilla enchantment that can be applied to all guns.
+   - Causes all guns to be able to fire spectral bullets when empty.
+      - Spectral bullets do 50% less damage (and have 50% less of an explosion radius) and have slightly worse velocity compared to their normal counterpart.
+      - Inherits exotic gun's abilities.
