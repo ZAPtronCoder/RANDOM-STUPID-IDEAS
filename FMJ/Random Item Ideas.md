@@ -206,7 +206,7 @@ These would be attached to the barrel of a gun and would modify bullets and the 
    - A vanilla enchantment that can be applied to all guns.
    - Causes all guns to be able to fire spectral bullets when empty.
    - Spectral bullets function just like their normal variants besides a few differences.
-      - Spectral bullets do 50% less damage (50% less of an explosion radius too for explosive guns) and have slightly worse velocity compared to their normal counterpart.
+      - Spectral bullets do 25% damage (50% less of an explosion radius too for explosive guns) and have slightly worse velocity compared to their normal counterpart.
       - Inherits exotic gun's abilities (ie. firing spectral *Stickybombs* from the *Stickybomb Launcher*).
    - Causes the gun to have unique firing noises when firing spectral bullets.
    - Reloading is normal, no need to reload spectral bullets.
