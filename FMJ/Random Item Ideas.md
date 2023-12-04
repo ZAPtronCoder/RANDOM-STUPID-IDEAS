@@ -135,6 +135,8 @@ These would require "Pristine Gun Parts", and item that requires more expensive 
 - Has stock, sight, underbarrel, and mag attachment points.
 - Flavor text: *"Despite not being considered an exotic gun, it still has a cool ability to make bullets defy gravity."*
 
+![image](https://github.com/ZAPtronCoder/RANDOM-STUPID-IDEAS/assets/106001153/18e60fad-ad0b-4a61-8594-5935e588ee00)
+
 **Dragunfire**
 - Looks is that of a rifle with dragon wings, its barrel emerges from a small dragon's head.
 - Stats are really good.
