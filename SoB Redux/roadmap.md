@@ -3,6 +3,7 @@ The file contains my plan for the content of **SoB**.
 
 ### Initial Re-Release
 My plans for the content of the initial re-release would include the classics, most of the event submission items, an maybe two other foods that I deem fit.
+
 This includes:
 - Cinder Bread (and Dough)
 - Exotic Fruit Salad
@@ -12,6 +13,7 @@ This includes:
 - Aloe Tea
 - Propelpearl Caviar
 - Duck Sandwich
+
 I am cutting all other content out of the mod, like the smoothies, the milks, all the roll/bun items, and the other miscellaneous drinks. All the tag compatibility and recipe compatibility will probably remain, as it is one of the integral parts of **SoB**.
 
 ### First Content Update
