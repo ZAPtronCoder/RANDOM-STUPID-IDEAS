@@ -2,7 +2,7 @@
 The file contains my plan for the content of **SoB**.
 
 ### Initial Re-Release
-The my plans for the content of the initial re-release would include the classics, most of the event submission items, an maybe two other foods that I deem fit.
+My plans for the content of the initial re-release would include the classics, most of the event submission items, an maybe two other foods that I deem fit.
 This includes:
 - Cinder Bread (and Dough)
 - Exotic Fruit Salad
