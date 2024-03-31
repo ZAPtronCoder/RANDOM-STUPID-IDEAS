@@ -5,11 +5,13 @@ Would completely remove the original content of the mod, if not leaving some thi
   - Removing all of the structures.
   - Removing all of the items, or doing something else with them.
   - Ditto the items stuff with blocks and stations.
+
 Would add its own content, or rework existing content.
 - This would include:
   - Adding a completely new roster of spells.
   - Keeping some existing spells and giving them a fresh coat of paint, like that of the **Portal** spell.
   - Keeping some core items and blocks, giving them new textures and whatnot.
+
 All the new and reworked content would be fitted to be in line with the theming of ***Malum***.
 - There would be three main schools:
   - *Mundane*, would classify spells that are unassuming, or basic.
