@@ -16,7 +16,7 @@ All the new and reworked content would be fitted to be in line with the theming 
 - There would be three main schools:
   - *Mundane*, would classify spells that are unassuming, or basic.
     - Would include basic spells, with no defined theme. (Fireball, Bolt, Dash, and whatnot. Just whatever basic spells.)
-    - Replaces *Evocating*.
+    - Replaces *Evocation*.
   - *Esoteric*, would classify more ***Malum*** oriented spells, dark magics, etc.
     - Would include more powerful and dark oriented spells, with the theme of ***Malum***. (Ether Flame, Telekinesis, Teleport, probably Portal, maybe some powerful blast [Biden Blast].)
     - Replaces *Ender*.
