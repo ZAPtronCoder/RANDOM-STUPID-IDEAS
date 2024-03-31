@@ -18,7 +18,7 @@ All the new and reworked content would be fitted to be in line with the theming 
     - Would include basic spells, with no defined theme. (Fireball, Bolt, Dash, and whatnot. Just whatever basic spells.)
     - Replaces *Evocating*.
   - *Esoteric*, would classify more ***Malum*** oriented spells, dark magics, etc.
-    - Would include more powerful and dark oriented spells, with the theme of ***Malum***. (Ether Flame, Telekinesis, Teleport, probably Portal.)
+    - Would include more powerful and dark oriented spells, with the theme of ***Malum***. (Ether Flame, Telekinesis, Teleport, probably Portal, maybe some powerful blast [Biden Blast].)
     - Replaces *Ender*.
   - *Hallowed*, would classify more support oriented spells.
     - Would include more supportive and weak spells, aside from smites and whatnot. (Heal Aura, Holy Smite, whatever I can think of.)
