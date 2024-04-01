@@ -19,13 +19,13 @@ Update would add its own content, or rework existing content.
 All the new and reworked content would be fitted to be in line with the theming of other mods within the modpack.
 - There would be three main schools:
   - *Mundane*, would classify spells that are unassuming, or basic.
-    - Would include basic spells, with no defined theme. (Fireball, Bolt, Dash, and whatnot. Just whatever basic spells.)
+    - Would include basic spells, with no defined theme. (Fireball, bolt, dash, whatnot. Just whatever basic spells.)
     - Replaces *Evocation*.
   - *Esoteric*, would classify more ***Malum*** oriented spells, dark magics, etc.
-    - Would include more powerful and dark oriented spells, with the theme of ***Malum***. (Ether Flame, Telekinesis, Teleport, probably Portal, maybe some powerful blast [Biden Blast??!?!!!1!?!].)
+    - Would include more powerful and dark oriented spells, with the theme of ***Malum***. (Ether flame, telekinesis, teleport, probably portal, maybe some powerful blast [Biden Blast??!?!!!1!?!].)
     - Replaces *Ender*.
   - *Hallowed*, would classify more support oriented spells.
-    - Would include more supportive and weak spells, aside from smites and whatnot. (Heal Aura, Holy Smite, whatever I can think of.)
+    - Would include more supportive and weak spells, aside from smites and whatnot. (Heal aura, holy smite, whatever I can think of.)
     - Replaces *Holy*.
 - ~~All~~ Some rarities are shifted and renamed.
   - *Common* is unchanged.
@@ -35,7 +35,7 @@ All the new and reworked content would be fitted to be in line with the theming 
   - *Legendary* is renamed to *Flawless*.
 
 ## Spells
-All spells will include a list of stats. In order, these stats are *Cast Type*, *Cooldown*, *Mana Cost*, *Rarity*.
+All spells will include a list of stats. In order, these stats are *Cast Type*, *Cooldown*, *Mana Cost*, *Rarity*, and whatever additional tidbits need to be added.
 
 <details><summary><bold>Mundane Spells:</bold></summary>
 
@@ -59,6 +59,21 @@ All spells will include a list of stats. In order, these stats are *Cast Type*, 
     - Info:
       - Casts a hitscan shot that does no damage.
       - Inflicts the target with *Guiding*, *Rending*, and *Glowing* for 10sec.
-      - *An odd spell that does nothing on its own, but weakens targets it afflicts.*
+      - *An odd spell that does nothing on its own, but weakens targets it hits.*
+
+</details>
+<details><summary><bold>Hallowed Spells:</bold></summary>
+
+1. Aura of Light
+    - Stats:
+      - continuous cast
+      - 15sec cooldown
+      - 50 mana cost
+      - rare
+      - can last 7sec
+    - Info:
+      - Effects a 5×5×4 area around the player.
+      - Provides *Instant Health I* to all entities within the area every second. Also effects the player.
+      - Drastically reduces the speed of the player while being cast.
 
 </details>
