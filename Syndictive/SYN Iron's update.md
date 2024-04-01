@@ -1,4 +1,8 @@
-Would completely remove the original content of the mod, if not leaving some things behind.
+## Idea for an Update to *Syndictive*
+This update would add ***Iron's Spells and Spellbooks***.
+
+# Overview and ToDo
+Update would completely remove the original content of the mod, if not leaving some things behind.
 - This would include:
   - Removing all existing spells.
   - Removing all of the bosses.
@@ -6,7 +10,7 @@ Would completely remove the original content of the mod, if not leaving some thi
   - Removing all of the items, or doing something else with them.
   - Ditto the items stuff with blocks and stations.
 
-Would add its own content, or rework existing content.
+Update would add its own content, or rework existing content.
 - This would include:
   - Adding a completely new roster of spells.
   - Keeping some existing spells and giving them a fresh coat of paint, like that of the **Portal** spell.
