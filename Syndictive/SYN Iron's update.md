@@ -9,6 +9,7 @@ Update would completely remove the original content of the mod, if not leaving s
   - Removing all of the structures.
   - Removing all of the items, or doing something else with them.
   - Ditto the items stuff with blocks and stations.
+  - **No spell leveling.**
 
 Update would add its own content, or rework existing content.
 - This would include:
@@ -37,7 +38,8 @@ All the new and reworked content would be fitted to be in line with the theming 
 ## Spells
 All spells will include a list of stats. In order, these stats are *Cast Type*, *Cooldown*, *Mana Cost*, *Rarity*, and whatever additional tidbits need to be added.
 
-<details><summary><bold>Mundane Spells:</bold></summary>
+<details><summary><b>Mundane Spells:</b></summary>
+
 
 1. Spark Bolt
     - Stats:
@@ -62,7 +64,8 @@ All spells will include a list of stats. In order, these stats are *Cast Type*, 
       - *An odd spell that does nothing on its own, but weakens targets it hits.*
 
 </details>
-<details><summary><bold>Hallowed Spells:</bold></summary>
+<details><summary><b>Hallowed Spells:</b></summary>
+
 
 1. Aura of Light
     - Stats:
@@ -75,5 +78,6 @@ All spells will include a list of stats. In order, these stats are *Cast Type*, 
       - Effects a 5×5×4 area around the player.
       - Provides *Instant Health I* to all entities within the area every second. Also effects the player.
       - Drastically reduces the speed of the player while being cast.
+      - *A spell used by those who wish to support themselves and other, charming.*
 
 </details>
