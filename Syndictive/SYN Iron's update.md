@@ -40,25 +40,25 @@ All spells will include a list of stats. In order, these stats are *Cast Type*, 
 <details><summary><bold>Mundane Spells:</bold></summary>
 
 1. Spark Bolt
-  - Stats:
-    - instant cast
-    - 1.5sec cooldown
-    - 15 mana cost
-    - common
-  - Info:
-    - Casts a fast projectile that does 3DMG and 1M-DMG on collision with entity.
-    - Is affected by *Guiding*.
-    - Has a lifespan of 5 seconds.
-    - *A basic bolt that is known among all spellcasters.*
-
+    - Stats:
+      - instant cast
+      - 1.5sec cooldown
+      - 15 mana cost
+      - common
+    - Info:
+      - Casts a fast projectile that does 3DMG and 1M-DMG on collision with entity.
+      - Is affected by *Guiding*.
+      - Has a lifespan of 5 seconds.
+      - *A basic bolt that is known among all spellcasters.*
 2. Snap
-  - Stats:
-    - instant cast
-    - 5sec cooldown
-    - 30 mana cost
-    - rare
-  - Info:
-    - Casts a hitscan shot that does no damage.
-    - Inflicts the target with *Guiding*, *Rending*, and *Glowing* for 10sec.
+    - Stats:
+      - instant cast
+      - 5sec cooldown
+      - 30 mana cost
+      - rare
+    - Info:
+      - Casts a hitscan shot that does no damage.
+      - Inflicts the target with *Guiding*, *Rending*, and *Glowing* for 10sec.
+      - *An odd spell that does nothing on its own, but weakens targets it afflicts.*
 
 </details>
