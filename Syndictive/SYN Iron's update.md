@@ -38,6 +38,7 @@ All the new and reworked content would be fitted to be in line with the theming 
 All spells will include a list of stats. In order, these stats are *Cast Type*, *Cooldown*, *Mana Cost*, *Rarity*.
 
 <details><summary><bold>Mundane Spells:</bold></summary>
+
 1. Spark Bolt
   - Stats:
     - instant cast
