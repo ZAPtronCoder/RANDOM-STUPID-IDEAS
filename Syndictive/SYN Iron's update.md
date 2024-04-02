@@ -40,7 +40,6 @@ All spells will include a list of stats. In order, these stats are *Cast Type*, 
 
 <details><summary><b>Mundane Spells:</b></summary>
 
-
 1. Spark Bolt
     - Stats:
       - instant cast
@@ -51,7 +50,7 @@ All spells will include a list of stats. In order, these stats are *Cast Type*, 
       - Casts a fast projectile that does 3DMG and 1M-DMG on collision with entity.
       - Is affected by *Guiding*.
       - Has a lifespan of 5 seconds.
-      - *A basic bolt that is known among all spellcasters.*
+    - *A basic bolt that is known among all spellcasters.*
 2. Snap
     - Stats:
       - instant cast
@@ -60,12 +59,12 @@ All spells will include a list of stats. In order, these stats are *Cast Type*, 
       - rare
     - Info:
       - Casts a hitscan shot that does no damage.
-      - Inflicts the target with *Guiding*, *Rending*, and *Glowing* for 10sec.
-      - *An odd spell that does nothing on its own, but weakens targets it hits.*
+      - Has a 30 block range.
+      - Inflicts the target with *Guiding* and *Glowing* for 10sec.
+    - *An odd spell that does nothing on its own, but makes whatever it hits a prime target.*
 
 </details>
 <details><summary><b>Hallowed Spells:</b></summary>
-
 
 1. Aura of Light
     - Stats:
@@ -78,6 +77,18 @@ All spells will include a list of stats. In order, these stats are *Cast Type*, 
       - Effects a 5×5×4 area around the player.
       - Provides *Instant Health I* to all entities within the area every second. Also effects the player.
       - Drastically reduces the speed of the player while being cast.
-      - *A spell used by those who wish to support themselves and other, charming.*
+    - *A spell used by those who wish to support themselves and others, charming.*
+2. Absolution
+    - Stats:
+      - long cast
+      - 1min cooldown
+      - 100 mana cost
+      - epic
+      - 5sec cast time
+    - Info:
+      - Creates a 2x2 wide beam that lingers for 2sec.
+      - Deals 3DMG and 2M-DMG every 0.25sec to anything within the beam.
+      - Beam has a range of 50 blocks.
+    - *"I absolve you of your sins."*
 
 </details>
