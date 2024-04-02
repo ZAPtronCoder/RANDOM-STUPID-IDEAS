@@ -5,8 +5,11 @@ This update would add ***Iron's Spells and Spellbooks***.
 Update would completely remove the original content of the mod, if not leaving some things behind.
 - This would include:
   - Removing all existing spells.
+    - This is to make way for new spells.
   - Removing all of the bosses.
+    - If most of the content is being removed, certain bosses would no longer fit. If not all of the bosses.
   - Removing all of the structures.
+    - Ditto the same reason with bosses.
   - Removing all of the items, or doing something else with them.
   - Ditto the items stuff with blocks and stations.
   - **No spell leveling.**
@@ -23,7 +26,7 @@ All the new and reworked content would be fitted to be in line with the theming 
     - Would include basic spells, with no defined theme. (Fireball, bolt, dash, whatnot. Just whatever basic spells.)
     - Replaces *Evocation*.
   - *Esoteric*, would classify more ***Malum*** oriented spells, dark magics, etc.
-    - Would include more powerful and dark oriented spells, with the theme of ***Malum***. (Ether flame, telekinesis, teleport, probably portal, maybe some powerful blast [Biden Blast??!?!!!1!?!].)
+    - Would include more powerful and dark oriented spells, with the theme of ***Malum***. (Ether something, telekinesis, teleport, probably portal, maybe some powerful blast [Biden Blast??!?!!!1!?!].)
     - Replaces *Ender*.
   - *Hallowed*, would classify more support oriented spells.
     - Would include more supportive and weak spells, aside from smites and whatnot. (Heal aura, holy smite, whatever I can think of.)
@@ -61,7 +64,7 @@ All spells will include a list of stats. In order, these stats are *Cast Type*, 
       - Casts a hitscan shot that does no damage.
       - Has a 30 block range.
       - Inflicts the target with *Guiding* and *Glowing* for 10sec.
-    - *An odd spell that does nothing on its own, but makes whatever it hits a prime target.*
+    - *An odd spell that does nothing on its own, but makes whatever you snap at a prime target.*
 
 </details>
 <details><summary><b>Hallowed Spells:</b></summary>
@@ -90,5 +93,33 @@ All spells will include a list of stats. In order, these stats are *Cast Type*, 
       - Deals 3DMG and 2M-DMG every 0.25sec to anything within the beam.
       - Beam has a range of 50 blocks.
     - *"I absolve you of your sins."*
+
+</details>
+<details><summary><b>Esoteric Spells:</b></summary>
+
+1. Aura of Blight
+    - Stats:
+      - continuous cast
+      - 15sec cooldown
+      - 50 mana cost
+      - rare
+      - can last 7sec
+    - Info:
+      - Effects a 5×5×4 area around the player.
+      - Afflicts *Instant Damage I* and *Blindness* to all entities within the area every second. Does not effect the player.
+      - Drastically reduces the speed of the player while being cast.
+    - *A corrupted form of a supportive spell, twisted to afflict those with harm.*
+2. Ether Spark
+    - Stats:
+      - instant cast
+      - 1.5sec cooldown
+      - 25 mana cost
+      - rare
+    - Info:
+      - Casts a projectile that does 4M-DMG and ignites targets.
+      - Leaves a wake of ether flame particles.
+      - Pierces targets.
+      - Can bounce 5 times, loses half of its speed every bounce.
+      - Has a lifespan of 10 seconds.
 
 </details>
