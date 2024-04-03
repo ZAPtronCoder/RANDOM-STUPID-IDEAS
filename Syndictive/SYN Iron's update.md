@@ -77,6 +77,38 @@ All spells will include a list of stats. In order, these stats are *Cast Type*, 
       - Has a 50 block range.
       - Inflicts the target with *Glowing*, *Guiding*, *Blindness*, *Rending*, and *Weakness II* for 15 seconds.
     - *Snap at your foes to not only make them a target, but to greatly weaken them.*
+4. Disrupt
+    - Stats:
+      - long cast
+      - 10sec cooldown
+      - 50 mana cost
+      - rare
+      - 1sec cast time
+    - Info:
+      - Functions identically to the base ISS's *Counterspell*.
+    - *A spell that is meant to disrupt the magics of others.*
+5. Gust
+    - Stats:
+      - instant cast
+      - 2.5sec cooldown
+      - 10 mana cost
+      - common
+    - Info:
+      - Gives the player a slight boost of velocity in the direction they are looking.
+      - Lightly pushes away all nearby entities.
+    - *A basic spell that gives everything a little push.*
+6. Greater Gust
+    - Stats:
+      - continuous cast
+      - 7sec cooldown
+      - 50 mana cost
+      - epic
+      - can last 10sec
+    - Info:
+      - Constantly pushes away entities in a cone where player is facing while cast.
+      - Lightly pushes the player back in the opposite direction.
+      - Player cannot move manually while cast.
+    - *A spell known to cause great winds, strong for distancing others from you, but makes you a bit vulnerable.*
 
 </details>
 <details><summary><b>Hallowed Spells:</b></summary>
@@ -98,11 +130,11 @@ All spells will include a list of stats. In order, these stats are *Cast Type*, 
       - long cast
       - 1min cooldown
       - 100 mana cost
-      - epic
+      - flawless
       - 5sec cast time
     - Info:
       - Creates a 2×2 wide beam that lingers for 2sec.
-      - Deals 3DMG and 2M-DMG every 0.25sec to anything within the beam.
+      - Deals 3DMG and 3M-DMG every 0.25sec to anything within the beam.
       - Beam has a range of 50 blocks.
     - *"I absolve you of your sins."*
 
@@ -136,7 +168,7 @@ All spells will include a list of stats. In order, these stats are *Cast Type*, 
       - Can hit the same target on a 0.5sec cooldown.
       - Effected by *Guiding*.
     - *Harness the power of ether to pester foes.*
-3. <u>Etheric Fireball</u>
+3. Etheric Fireball
     - Stats:
       - long cast
       - 3sec cooldown
