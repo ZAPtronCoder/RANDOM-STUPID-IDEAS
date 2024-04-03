@@ -64,7 +64,19 @@ All spells will include a list of stats. In order, these stats are *Cast Type*, 
       - Casts a hitscan shot that does no damage.
       - Has a 30 block range.
       - Inflicts the target with *Guiding* and *Glowing* for 10sec.
-    - *An odd spell that does nothing on its own, but makes whatever you snap at a prime target.*
+    - *Snap at your foes to make them a prime target.*
+3. Greater Snap
+    - Stats:
+      - long cast
+      - 7sec cooldown
+      - 50 mana cost
+      - epic
+      - 0.5sec cast time
+    - Info:
+      - Casts a hitscan shot that does no damage.
+      - Has a 50 block range.
+      - Inflicts the target with *Glowing*, *Guiding*, *Blindness*, *Rending*, and *Weakness II* for 15 seconds.
+    - *Snap at your foes to not only make them a target, but to greatly weaken them.*
 
 </details>
 <details><summary><b>Hallowed Spells:</b></summary>
@@ -89,7 +101,7 @@ All spells will include a list of stats. In order, these stats are *Cast Type*, 
       - epic
       - 5sec cast time
     - Info:
-      - Creates a 2x2 wide beam that lingers for 2sec.
+      - Creates a 2×2 wide beam that lingers for 2sec.
       - Deals 3DMG and 2M-DMG every 0.25sec to anything within the beam.
       - Beam has a range of 50 blocks.
     - *"I absolve you of your sins."*
@@ -106,10 +118,10 @@ All spells will include a list of stats. In order, these stats are *Cast Type*, 
       - can last 7sec
     - Info:
       - Effects a 5×5×4 area around the player.
-      - Afflicts *Instant Damage I* and *Blindness* to all entities within the area every second. Does not effect the player.
+      - Afflicts *Instant Damage I* and *Blindness* (10sec) to all entities within the area every second. Does not effect the player.
       - Drastically reduces the speed of the player while being cast.
     - *A corrupted form of a supportive spell, twisted to afflict those with harm.*
-2. Ether Spark
+2. Etheric Spark
     - Stats:
       - instant cast
       - 1.5sec cooldown
@@ -121,5 +133,24 @@ All spells will include a list of stats. In order, these stats are *Cast Type*, 
       - Pierces targets.
       - Can bounce 5 times, loses half of its speed every bounce.
       - Has a lifespan of 10 seconds.
+      - Can hit the same target on a 0.5sec cooldown.
+      - Effected by *Guiding*.
+    - *Harness the power of ether to pester foes.*
+3. <u>Etheric Fireball</u>
+    - Stats:
+      - long cast
+      - 3sec cooldown
+      - 75 mana cost
+      - epic
+      - 3sec cast time
+    - Info:
+      - Casts a large, slow projectile that functions similarly to base ISS fireball.
+      - Does 8E-DMG (effected by area damage falloff) and 3M-DMG (not effected by damage falloff).
+      - Has a 5×5×5 explosion radius.
+      - Does not damage terrain.
+      - Leaves a wake of ether flame particles.
+      - Effected greatly by gravity.
+      - Effected by *Guiding*.
+    - *Harness the power of ether to demolish foes and those around them.*
 
 </details>
