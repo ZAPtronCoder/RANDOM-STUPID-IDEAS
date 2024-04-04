@@ -1,7 +1,7 @@
 # Idea for an Update to *Syndictive*
 This update would add ***Iron's Spells and Spellbooks***.
 
-## Overview and ToDo
+## Overview and To-Do
 Update would completely remove the original content of the mod, if not leaving some things behind.
 - This would include:
   - Removing all existing spells.
