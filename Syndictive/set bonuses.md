@@ -21,7 +21,7 @@ Iron Set Bonus:
 
 Griefer Set Bonus:
 - +2 Explosion Affinity
-  - *Explosion Affinity** will heal ***x*** amount of health when hit my an explosion.
+  - *Explosion Affinity** will heal ***x*** amount of health when hit by an explosion.
   - Player does not need to take damage from the explosion.
 
 Sanguine Set Bonus:
