@@ -9,7 +9,7 @@ Chainmail Set Bonus:
   - The whole idea of being a glass cannon is reinforced with this *Unarmed Proficiency* thing.
 
 Gold Set Bonus:
-- +4 Luck
+- +2 Luck
   - Simple addition that makes full gold armor a bit more versitile.
 
 Silver Set Bonus:
@@ -28,7 +28,7 @@ Sanguine Set Bonus:
 - +4 Max Health
 
 Diamond Set Bonus:
-- +2 Luck
+- +1 Luck
 - +1 Attack Range
 - +1 Reach Distance
 
