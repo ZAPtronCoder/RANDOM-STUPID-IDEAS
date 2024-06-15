@@ -1,4 +1,4 @@
-# Cool Idea for a Cool Tech Mod but it's a Hardcore Survival Mod and a Magic Mod in a Trench Coat
+# Cool Idea for a Cool Tech Mod but it's a Hardcore Survival Mod and a Magic Mod in a Trench Coat but Not Really
 
 ## Short Explanation 
 The mod is centered around the idea of keeping yourself alive through the power of clones and modifying yourself (like cybernetics and junk). 
