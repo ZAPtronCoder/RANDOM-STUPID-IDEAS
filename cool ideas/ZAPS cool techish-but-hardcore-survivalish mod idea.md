@@ -49,3 +49,20 @@ Now, to explain the different types of modifications:
 - Augments:
    - ...refer to modifications for parts of the body that are irreplaceable, like the head and torso. Although not as impactful on the surface, they can be something that can make you absurdly powerful.
    - Contains modifications like Backup Implant, Bionic Heart, and again, whatver junk I can think up of.
+
+### Cloning and Experimentation
+Clones! Clones are another integral part of the mod, enabling you to actually respawn; although this is not the only thing you can do with clones.
+
+To start with creating a vessel, you would need a Cloning Vat, an enclosure made from glass and iron. You would then place tge vat down and interact with the vat with a bucket (of water) to fill it with water. 
+
+After the vat is filled with water, you can then interact with it again to open up an interface. You can now start inputting organic material into the vat. You can manually insert items into it or use a hopper/dispenser to do so.
+
+Organic items can be anything ranging from meat to plants, although meat provides way more value in the creation of a clone.
+
+After enough organic material is inserted, you can then interact with the vat again to select what the clone will look like. You can use any player's username, and the clone will look like whatever that player's current skin is.
+
+After the clone has been "stylized", the process will begin. After around two in-game days, the vat will drain, and a finished, empty vessel will be left in the glass vat.
+
+This finished clone can now be used; you can interact with it and pick it up; or, you can insert yourself into it, allowing you to swap into a pristine body. 
+
+You can place clones on Modification Tables/Stations and modify them similarly to how you would modify yourself.
