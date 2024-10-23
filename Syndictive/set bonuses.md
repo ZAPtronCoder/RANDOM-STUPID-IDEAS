@@ -6,7 +6,7 @@ Chainmail Set Bonus:
 - +2 Unarmed Proficiency
   - *Unarmed Proficiency* will increase Attack Damage and Attack Knockback by ***x*** value when not holding an item in either hand.
   - This ties into the gimmick factor of Chainmail armor, which already increases Attack Damage.
-  - The whole idea of being a glass cannon is reinforced with this *Unarmed Proficiency* thing.
+  - The whole idea of being an unarmed funnyman is just too ridiculous for me to pass up.
 
 Gold Set Bonus:
 - +2 Luck
